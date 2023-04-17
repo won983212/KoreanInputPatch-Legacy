@@ -1,0 +1,1 @@
+# KoreanInputPatch-Legacy
