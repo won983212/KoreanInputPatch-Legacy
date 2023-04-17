@@ -1,1 +1,4 @@
-# KoreanInputPatch-Legacy
+# 마인크래프트 1.11.2 한글 패치
+
+1.11.2버전 한글패치입니다. (Legacy)
+
